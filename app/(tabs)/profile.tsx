@@ -3,14 +3,14 @@ import React from 'react'
 
 type Props = {}
 
-const HomeScreen = (props: Props) => {
+const ProfileScreen = (props: Props) => {
   return (
     <View>
-      <Text>HomeScreen</Text>
+      <Text>ProfileScreen</Text>
     </View>
   )
 }
 
-export default HomeScreen
+export default ProfileScreen
 
 const styles = StyleSheet.create({})
